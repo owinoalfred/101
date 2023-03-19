@@ -1,0 +1,4 @@
+#!/bin/bash
+git init
+git add .
+git commit -m "the enext things that i would love to do is here"

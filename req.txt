@@ -1,0 +1,1 @@
+C is a low level programming Language that helps speak to the core of the PC
