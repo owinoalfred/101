@@ -1,0 +1,3 @@
+#!/bin/bash
+git add .
+git commit -m "creating a git file" -m "for the commit message: i write this is a cool thing that i would like to major in"
