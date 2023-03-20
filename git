@@ -1,6 +1,6 @@
 #!/bin/bash
 git add .
-git commit -m "inout in bash using arrays!"
+git commit -m "ising sdtin!"
 git push
 #this programm commits a message to the console
 
