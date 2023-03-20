@@ -1,6 +1,6 @@
 #!/bin/bash
 git add .
-git commit -m "and and or && ||!"
+git commit -m "For loops in Bash!"
 git push
 #this programm commits a message to the console
 
