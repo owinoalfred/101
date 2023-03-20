@@ -1,7 +1,17 @@
 #!/bin/bash
+count=10
 if [ 10 -ne 1 ]
 then
 	echo "yess 10 is equal to 10"
 else
 	echo "Yes 10 has never been equal to one unles thy are in defferent bases!"
+fi
+
+
+
+if [ $count -gt 2 ]
+then
+	echo "count is greater than 2"
+else
+	echo "ooh math has a problem"
 fi
