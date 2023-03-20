@@ -1,0 +1,21 @@
+#!/bin/bash
+count=10
+age=25
+redirect=7
+allowed_age=18
+
+if [ "$age" -nt "$allowed_age" ] && [ "$age" -gt "$allowed_age" ]
+then
+    echo
+elif [ "$allowed_age" -gt "$redirect" ] || [ "$age" -lt "$count" ]
+then
+   echo 'This is abnormal'
+else
+   echo 'Lets End this here!'
+fi 
+
+cat << doc
+this is the use of && 
+and || which stanf for
+and and or
+doc

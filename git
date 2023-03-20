@@ -1,6 +1,6 @@
 #!/bin/bash
 git add .
-git commit -m " i have changed the mode using +x !"
+git commit -m "and and or && ||!"
 git push
 #this programm commits a message to the console
 
