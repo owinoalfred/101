@@ -17,7 +17,11 @@ else
 fi
 
 cat << docs
-these two conditions evaluate if a number is greater than or equal t and these are the ones that we will use
-to build on in the future
-lets try
+________________________________________
+**these two conditions evaluate if      |
+a number is greater than or equal t     |
+and these are the ones that we will use |
+to build on in the future               |
+lets try**                              | 
+________________________________________|
 docs
