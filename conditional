@@ -1,0 +1,9 @@
+#!/bin/bash
+
+$counter=10
+if [ $counter -eq: 10 ]
+then
+	echo "this is 10"
+else
+	echo "this is not 10"
+fi
