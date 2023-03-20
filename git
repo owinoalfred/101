@@ -3,11 +3,3 @@ git add .
 git commit -m "bash scripting supports conditional statements!"
 #this programm commits a message to the console
 
-:"
-
-
-this is a comment that i ahve created and it i a multi line comment that 
-frear doc
-
-
-"
