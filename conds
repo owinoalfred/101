@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ 10 -eq 1 ]
+if [ 10 -ne 1 ]
 then
 	echo "yess 10 is equal to 10"
 else
