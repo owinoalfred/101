@@ -1,0 +1,7 @@
+#!/bin/bash
+if [ 10 -eq 10 ]
+then
+	echo "yess 10 is equal to 10"
+else
+	echo "owwwww i was taught wrong this is not right"
+fi
