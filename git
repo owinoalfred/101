@@ -1,3 +1,13 @@
 #!/bin/bash
 git add .
-git commit -m "the enext things that i would love to do is here"
+git commit -m "bash scripting supports conditional statements!"
+#this programm commits a message to the console
+
+:"
+
+
+this is a comment that i ahve created and it i a multi line comment that 
+frear doc
+
+
+"
