@@ -1,6 +1,6 @@
 #!/bin/bash
 git add .
-git commit -m "ising sdtin!"
+git commit -m "la -l stdoutput!"
 git push
 #this programm commits a message to the console
 
